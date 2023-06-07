@@ -1,1 +1,1 @@
-compilador visual studio code, MSYS2
+compilador visual studio code, C18
